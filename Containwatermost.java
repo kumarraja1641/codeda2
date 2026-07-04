@@ -13,6 +13,7 @@ public class Containwatermost {
         }
 
         int res=containsmax(arr,n);
+        System.out.println(res);
 
     }
     public static int containsmax(int[] arr,int n)
